@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --azul-verde:#355764;
+    --verde:#5A8F7B;
+    --ciano:#65ccd7;
+    --amarelo:#FFEA11;
+    --branco:#FFFFFF;
+}
+
+html,body{
+    width:100%;  
+    background-color: var(--verde);   
+    min-height: 100%;
+}
