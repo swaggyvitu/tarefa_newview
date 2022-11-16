@@ -9,7 +9,7 @@
     }
     .carrossel{height: 55vh;}
     .titulo-carrossel{background-color: rgb(189, 9, 9);height: 4vh; font-size: 1.3rem; top: 44%;}
-    .link-carrossel{font-size: 1.4rem; padding: 5px 20px 5px 20px;top: 50%; }
+    .link-carrossel{font-size: 1.0rem; padding: 5px 20px 5px 20px;top: 50%; }
     .aneis{width: 90%; }
     .div-aneis{font-size:1rem;}
     .div-aneis h3{font-size:1.5rem;}
